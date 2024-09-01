@@ -12,3 +12,4 @@
 - Methodology
 - Layers used (Number and type)
 - Hyperparameters
+- Compile list of datasets used and try downloading and storing them in the dataset folder. (Create a new folder for every model)
