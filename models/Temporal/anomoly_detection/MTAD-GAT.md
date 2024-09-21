@@ -1,0 +1,33 @@
+# MTAD-GAT
+
+Year: 2020  
+Publication: IEEE ICDM  
+Paper Link:
+
+#### Strategy:
+
+- Feature Convolution + Recurrent Convolution (FC+RC)
+
+#### Spatial Module:
+
+- Spatial GNN
+
+#### Temporal Module:
+
+- Time Attention (T-A)
+
+#### Missing Values:
+
+- No
+
+#### Input Graph:
+
+- Not Required (NR)
+
+#### Learned Graph Relations:
+
+- Not applicable
+
+#### Graph Heuristics:
+
+- None
