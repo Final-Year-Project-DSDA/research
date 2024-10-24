@@ -1,1 +1,9 @@
 .venv
+*.csv
+*.txt
+*.gz
+*.pt
+*.zip
+*.npy
+*.json
+*.pkl
